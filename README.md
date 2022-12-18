@@ -8,6 +8,7 @@
 Название          | Статус | Ссылка
 ------------------|--------|--------
 Автопарк          | 🟢    | <a href="https://github.com/Termolk/WaspHomeWork/tree/main/AutoParkSolution">Перейти</a>
+Автопарк          | 🟢    | <a href="https://github.com/Termolk/WaspHomeWork/tree/main/AutoParkSolution">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
