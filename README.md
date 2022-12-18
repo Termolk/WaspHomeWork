@@ -7,7 +7,7 @@
 
 Название          | Статус | Ссылка
 ------------------|--------|--------
-Музыкальный магазин          |  🟡   | <a href="https://github.com/Termolk/WaspHomeWork/tree/main/AutoParkSolution">Перейти</a>
+Музыкальный магазин          |  🟡   | <a href="https://github.com/Termolk/DisksShop">Перейти</a>
 Автопарк          | 🟢    | <a href="https://github.com/Termolk/WaspHomeWork/tree/main/AutoParkSolution">Перейти</a>
 
 **Статусы выполнения:** <br>
