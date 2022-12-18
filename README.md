@@ -8,7 +8,7 @@
 Название          | Статус | Ссылка
 ------------------|--------|--------
 Калькулятор на MVVM практика          |  🔴   | <a href="">Перейти</a>
-Циферблат (пи-код) практика          |  🟡   | <a href="https://github.com/Termolk/Ciferblat/tree/main/Ciferblat">Перейти</a>
+Циферблат (пин-код) практика          |  🟡   | <a href="https://github.com/Termolk/Ciferblat/tree/main/Ciferblat">Перейти</a>
 Музыкальный магазин          |  🟡   | <a href="https://github.com/Termolk/DisksShop/tree/main/WaspHomeWork3">Перейти</a>
 Автопарк          | 🟢    | <a href="https://github.com/Termolk/WaspHomeWork/tree/main/AutoParkSolution">Перейти</a>
 
